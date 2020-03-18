@@ -1,1 +1,3 @@
-# mi-primer-repositorio
+Nombre: Mauro
+Apellido: Lamagni
+Legajo: 43164
